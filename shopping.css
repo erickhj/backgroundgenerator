@@ -3,11 +3,14 @@
     text-decoration: line-through;
 }
 div{
-    margin: 2px;
+    margin: 3px;
 }
 h1{
     text-align: center;
 }
 p{
     text-align: center;
+}
+.btn-primary{
+    background-color:blue; 
 }
