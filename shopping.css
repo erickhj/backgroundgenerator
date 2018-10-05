@@ -1,0 +1,13 @@
+/*File for shoppinglsit.html*/
+.done {
+    text-decoration: line-through;
+}
+div{
+    margin: 2px;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
